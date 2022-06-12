@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Hand Base Lamp",
+        "imgUrl": "images/lamp1.png",
+        "category": "Chair",
+        "prices": [
+            {
+                "currentPrice": 35,
+                "oldPrice": 55
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Blue Chair",
+        "imgUrl": "images/blue-chair.png",
+        "category": "Bed",
+        "prices": [
+            {
+                "currentPrice": 140,
+                "oldPrice": 200
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Lamp Tool",
+        "imgUrl": "images/lamp2.png",
+        "category": "Sofa",
+        "prices": [
+            {
+                "currentPrice": 65,
+                "oldPrice": 95
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Gray Luxurious Chair",
+        "imgUrl": "images/gray-chair.png",
+        "category": "Bed",
+        "prices": [
+            {
+                "currentPrice": 75,
+                "oldPrice": 120
+            }
+        ]
+    }
+]
